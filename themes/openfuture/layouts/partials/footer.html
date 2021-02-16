@@ -1,0 +1,9 @@
+<div class="row footer pb-3">
+  <div class="col-12 col-lg-6 social">
+  linkedIn, <a href="https://twitter.com/openfutureEU">twitter</a>
+  <a class="email" href="mailto:{{ .Params.email }}">{{ .Params.email }}</a>
+  </div>
+  <div class="col-12 col-lg-6 text-center">
+    {{ .Params.footer | markdownify }}
+  </div>
+</div>

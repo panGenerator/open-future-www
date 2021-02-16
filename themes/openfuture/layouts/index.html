@@ -1,0 +1,25 @@
+{{ define "main" }}
+  <div class="row content">
+    {{ $home := .Site.GetPage "/home" }}
+    {{ $sections := $home.Resources.ByType "page" }}
+    {{ range $sections }}
+      <article class="col-12" id="{{ .Params.slug }}">
+        <h2>{{ .Title | markdownify}}</h2>
+        <small>{{ .Params.tag_line | markdownify }}</small>
+        <div> {{ .Content }} </div>
+      </article>
+    {{ end }}
+
+    {{ $people := .Site.GetPage "/people" }}
+    {{ $sections := $people.Resources.ByType "page" }}
+    {{ range $sections }}
+      <article class="col-12 col-lg-6" id="{{ anchorize .Title }}">
+        <h2>{{ .Title | markdownify}}</h2>
+        <a href="https://twitter.com/{{.Params.twitter}}">twitter</a>
+        <div> {{ .Content }} </div>
+        <a class="btn btn-primary" href="{{.Params.more}}" target="_blank">_read more</a>
+      </article>
+    {{ end }}
+
+  </div>
+{{ end }}

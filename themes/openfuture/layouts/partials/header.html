@@ -1,0 +1,21 @@
+<div class="row header justify-content-center">
+  <div class="col-auto py-5 align-self-center">
+    <img src="{{ .Params.header_image }}" class="logo"/>
+  </div>
+  <div class="w-100"></div>
+  <div class="col-lg-6 col-12 lead p-5">
+    <div class="row justify-content-center">
+      <div class="col-10 align-self-center">
+        <h1 class="">{{ .Title | markdownify }}</h1>
+      </div>
+      <div class="w-100"></div>
+      <div class="col-8 align-self-center lead-content mt-4">
+        {{ .Content }}
+      </div>
+    </div>
+    <a href="?" class="btn btn-primary p-3">_read more</a>
+  </div>
+  <div class="col-6 mailchimp">
+    {{ .Params.newsletter | markdownify }}
+  </div>
+</div>

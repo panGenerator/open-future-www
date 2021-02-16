@@ -1,0 +1,5 @@
+baseURL = "http://openfuture.eu"
+languageCode = "en-us"
+title = "Open Future"
+theme = "openfuture"
+disableKinds = ["RSS", "sitemap", "section", "taxonomy", "term", "robotsTXT"]
