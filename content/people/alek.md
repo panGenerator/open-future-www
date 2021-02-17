@@ -1,6 +1,6 @@
 ---
 title: "Alek  \nTarkowski"
-photo: images/alek.jpg
+photo: "images/alek.png"
 weight: 2
 linkedin: https://www.linkedin.com/in/alek-tarkowski
 twitter: atarkowski

@@ -17,13 +17,18 @@
     {{ $people := .Site.GetPage "/people" }}
     {{ $sections := $people.Resources.ByType "page" }}
     {{ range $sections }}
-      <article class="col-12 col-lg-6" id="{{ anchorize .Title }}">
-        <h2>{{ .Title | markdownify}}</h2>
-        <a href="https://twitter.com/{{.Params.twitter}}">twitter</a>
-        <div> {{ .Content }} </div>
-        <a class="btn btn-primary" href="{{.Params.more}}" target="_blank">_read more</a>
+      <article class="person col-12 col-lg-6 gx-0 mb-2" id="{{ anchorize .Title }}">
+        <img src="{{ .Params.photo }}" class="img-fluid w-100 mb-4"/>
+        <div class="w-100"></div>
+        <div class="person-details p-5">
+          <h2>{{ .Title | markdownify}}</h2>
+          <div class="w-100"></div>
+          <a href="{{.Params.linkedin}}"><img src="images/linkedin-gray.svg" class="mt-2 me-2"/></a>
+          <a href="https://twitter.com/{{.Params.twitter}}"><img src="images/twitter-gray.svg" class="mt-2"/></a>
+          <div class="pt-5 pb-5 text-justify"> {{ .Content }} </div>
+          <a class="btn btn-primary me-4" href="{{.Params.more}}" target="_blank">_read more</a>
+        </div>
       </article>
     {{ end }}
-
   </div>
 {{ end }}

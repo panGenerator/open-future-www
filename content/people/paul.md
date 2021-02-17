@@ -1,6 +1,6 @@
 ---
 title: "Paul  \nKeller"
-photo: images/paul.jpg
+photo: "images/paul.png"
 weight: 1
 linkedin: https://www.linkedin.com/in/paulkeller
 twitter: paul_keller
