@@ -2,7 +2,7 @@
 title: "Alek  \nTarkowski"
 photo: images/alek.jpg
 weight: 2
-linkedin:
+linkedin: https://www.linkedin.com/in/alek-tarkowski
 twitter: atarkowski
 more: http://alektarkowski.pl
 ---

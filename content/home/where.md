@@ -1,5 +1,5 @@
 ---
-title: "Where do we come _from ?"
+title: "Where do  \nwe come  \n_from ?"
 weight: 2
 slug: where
 tag_line: "We are a new organisation, yet founded  \nby people active in the open movement  \nfor the last two decades."

@@ -1,5 +1,5 @@
 ---
-title: "Who _we are ?"
+title: "Who are  \n_we?"
 weight: 3
 slug: who
 tag_line: "Open Future Foundation is based  \nin Amsterdam and was founded by  \nPaul Keller and Alek Tarkowski  \nat the end of 2020"

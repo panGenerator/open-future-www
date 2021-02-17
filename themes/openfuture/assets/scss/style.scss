@@ -26,8 +26,25 @@ h1 {
   line-height: 0.9em;
 }
 
+h2, .ender {
+  font-family: 'Chaney', 'Helvetica', sans-serif;
+  font-size: 4em;
+  margin: 0 auto;
+  display:inline;
+  clear:right;
+}
+.ender {
+  line-height: 0;
+}
+.tag-line {
+  font-size: 1.5em;
+  font-family: 'ArgestaItalic', 'Helvetica', sans-serif;
+  color: $secondary;
+  display:inline-block;
+}
 .main {
   background: #fff;
+  max-width:1200px;
 }
 
 .social, .lead {
@@ -47,7 +64,15 @@ h1 {
 }
 
 .logo {
-  width: 400px;
+  width: 70%;
+}
+
+.footer {
+  a {
+    text-decoration: none;
+    font-family: 'Chaney', 'Helvetica', sans-serif;
+    text-transform: uppercase;
+  }
 }
 @include media-breakpoint-up(md) {
   .logo {

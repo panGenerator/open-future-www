@@ -2,7 +2,7 @@
 title: "Paul  \nKeller"
 photo: images/paul.jpg
 weight: 1
-linkedin:
+linkedin: https://www.linkedin.com/in/paulkeller
 twitter: paul_keller
 more: https://publicspace.online
 ---
