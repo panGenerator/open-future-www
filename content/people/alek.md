@@ -1,5 +1,5 @@
 ---
-title: "Alek  \nTarkowski"
+title: "Alek Tarkowski"
 photo: "images/alek.png"
 weight: 2
 linkedin: https://www.linkedin.com/in/alek-tarkowski

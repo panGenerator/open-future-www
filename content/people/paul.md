@@ -1,5 +1,5 @@
 ---
-title: "Paul  \nKeller"
+title: "Paul Keller"
 photo: "images/paul.png"
 weight: 1
 linkedin: https://www.linkedin.com/in/paulkeller
