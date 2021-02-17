@@ -10,7 +10,7 @@
             <div class="tag-line mb-2 mt-5 ms-5">{{ .Params.tag_line | markdownify }}</div><div class="w-100"></div>
             <div class="ender mb-5">_</div>
         </div>
-        <div class="page-content mt-5 row">
+        <div class="page-content mt-5 row p-5 gx-5">
           <div class="col-12 col-lg-6 text-justify">{{ .Summary }}</div>
           <div class="col-12 col-lg-6 text-justify">{{ $both := split .RawContent "<!--more-->" }}
           {{ index $both 1 | markdownify }}<br/>
