@@ -18,8 +18,12 @@ body {
   font-family: 'Chaney', 'Helvetica', sans-serif;
   text-transform: uppercase;
 }
+
 .text-justify {
   text-align: justify;
+}
+.text-yellow {
+  color: $yellow;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Chaney', 'Helvetica', sans-serif;
@@ -96,6 +100,14 @@ h2, .ender {
     text-transform: uppercase;
   }
 }
+.page-content {
+  position: relative;
+  .ender {
+    position:absolute;
+    bottom:0;
+    right:0;
+  }
+}
 @include media-breakpoint-up(md) {
   .logo {
     width: 580px;
@@ -105,5 +117,8 @@ h2, .ender {
 @include media-breakpoint-up(lg) {
   .footer {
     background: $yellow;
+  }
+  .page-content .ender {
+    position:unset;
   }
 }

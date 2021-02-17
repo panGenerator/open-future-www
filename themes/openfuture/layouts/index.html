@@ -13,8 +13,11 @@
         <div class="page-content mt-5 row">
           <div class="col-12 col-lg-6 text-justify">{{ .Summary }}</div>
           <div class="col-12 col-lg-6 text-justify">{{ $both := split .RawContent "<!--more-->" }}
-          {{ index $both 1 | markdownify }}</div>
+          {{ index $both 1 | markdownify }}<br/>
+          <div class="ender text-yellow me-4">_</div>
         </div>
+        </div>
+
       </article>
     {{ end }}
 
