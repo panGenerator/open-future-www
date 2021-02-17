@@ -1,14 +1,14 @@
-<div class="row footer pb-3">
-  <div class="col-12 col-lg-6 social">
+<div class="row footer justify-content-center">
+  <div class="social py-5 col-12 col-lg-6 align-self-center text-center">
   <a href="https://www.linkedin.com/company/open-future-foundation/">
-    <img src="images/linkedin.svg" />
+    <img src="images/linkedin.svg" class="me-3"/>
   </a>
-  <a href="https://twitter.com/openfutureEU">
+  <a href="https://twitter.com/openfutureEU" class="me-3">
     <img src="images/twitter.svg" />
   </a>
   <a class="email" href="mailto:{{ .Params.email }}">{{ .Params.email }}</a>
   </div>
-  <div class="col-12 col-lg-6 text-center">
+  <div class="col-12 col-lg-6 text-center py-3">
     {{ .Params.footer | markdownify }}
   </div>
 </div>

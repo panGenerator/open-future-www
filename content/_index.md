@@ -1,6 +1,6 @@
 ---
 header_image: "images/logo.svg"
-footer: "Read our statues.  \n All content is published in the Public Domain"
+footer: "All content is published in the Public Domain  \nRead our statues."
 newsletter: "keep up to date and  \nsubscribe to our newsletter"
 email: "hello@openfuture.eu"
 title: "The  \nparadox  \nof open_"
