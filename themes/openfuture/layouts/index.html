@@ -3,21 +3,25 @@
     {{ $home := .Site.GetPage "/home" }}
     {{ $sections := $home.Resources.ByType "page" }}
     {{ range $sections }}
-      <article class="col-12" id="{{ .Params.slug }}">
+      <article class="col-12 mt-5" id="{{ .Params.slug }}">
         <div class="row justify-content-center"><div class="w-100"></div>
           <div class="col-auto align-self-center">
             <h2>{{ .Title | markdownify}}</h2><div class="w-100"></div>
             <div class="tag-line my-2">{{ .Params.tag_line | markdownify }}</div><div class="w-100"></div>
             <div class="ender mb-5">_</div>
         </div>
-        <div class="mt-3">{{ .Content }} </div>
+        <div class="page-content mt-5 row">
+          <div class="col-12 col-lg-6 text-justify">{{ .Summary }}</div>
+          <div class="col-12 col-lg-6 text-justify">{{ $both := split .RawContent "<!--more-->" }}
+          {{ index $both 1 | markdownify }}</div>
+        </div>
       </article>
     {{ end }}
 
     {{ $people := .Site.GetPage "/people" }}
     {{ $sections := $people.Resources.ByType "page" }}
     {{ range $sections }}
-      <article class="person col-12 col-lg-6 gx-0 mb-2" id="{{ anchorize .Title }}">
+      <article class="person col-12 col-lg-6 gx-0 mt-5 mb-2" id="{{ anchorize .Title }}">
         <img src="{{ .Params.photo }}" class="img-fluid w-100 mb-4"/>
         <div class="w-100"></div>
         <div class="person-details p-5">
