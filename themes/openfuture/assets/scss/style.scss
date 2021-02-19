@@ -33,6 +33,10 @@ input:focus, .btn:focus {
   outline: none;
 }
 
+.three-em {
+  height: 3em;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Chaney', 'Helvetica', sans-serif;
 }
@@ -62,7 +66,7 @@ h3 {
 }
 .mailchimp {
   .form-text {
-    height: 3em;
+    height: 2.715em;
     font-family: 'ArgestaItalic', 'Helvetica', sans-serif;
   }
 }
@@ -174,6 +178,17 @@ h3 {
   .logo {
     width: 580px;
   }
+  .form-bg {
+    .form-bg-inner{
+      width:80%;
+    }
+    background: url('/images/newsletter-md1.svg') repeat-x center center;
+  }
+  .mailchimp {
+    .form-text {
+      height: 2.0687em;
+    }
+  }
 }
 
 @include media-breakpoint-up(lg) {
@@ -182,5 +197,14 @@ h3 {
   }
   .page-content .ender {
     position:unset;
+  }
+  .form-bg {
+    .form-bg-inner{
+      width: unset;
+    }
+    background: none;
+  }
+  .form-right {
+    margin-top: 3.5em;
   }
 }
