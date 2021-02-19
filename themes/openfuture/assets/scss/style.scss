@@ -1,4 +1,4 @@
-$font-size-root: 21px;
+$font-size-root: 16px;
 $yellow: #FFF100;
 $primary: #000;
 $secondary: #6D6E70;
@@ -23,40 +23,46 @@ body {
 .text-justify {
   text-align: justify;
 }
+.w-80 {
+  width: 80%;
+}
 .text-yellow {
   color: $yellow;
 }
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Chaney', 'Helvetica', sans-serif;
 }
 
 h1 {
-  font-size:2.5em;
+  font-size:2em;
   line-height: 0.9em;
 }
 
 h2, .ender {
   font-family: 'Chaney', 'Helvetica', sans-serif;
   line-height: 0.9em;
-  font-size: 6em;
+  font-size: 2.6em;
   margin: 0 auto;
   display:inline;
   clear:right;
 }
 
 h3 {
-  font-size: 3.5em;
+  font-size: 2.3em;
 }
 
 .ender {
   line-height: 0;
 }
+
 .tag-line {
-  font-size: 1.5em;
+  font-size: 1.1em;
   font-family: 'ArgestaItalic', 'Helvetica', sans-serif;
   color: $secondary;
   display:inline-block;
 }
+
 .main {
   background: #fff;
   max-width:1200px;
@@ -116,7 +122,37 @@ h3 {
     right:0;
   }
 }
+@include media-breakpoint-up(sm) {
+  h1{
+    // font-size: 4em;
+  }
+  h2{
+    // font-size: 2em;
+  }
+  h3{
+
+  }
+}
+
 @include media-breakpoint-up(md) {
+  body {
+    font-size: 21px;
+  }
+  h1{
+    font-size:2.5em;
+  }
+  h2{
+    font-size: 4em;
+  }
+  h3{
+    font-size: 3.5em;
+  }
+  .lead .lead-content {
+    font-size: 1em;
+  }
+  .tag-line {
+    font-size: 1.5em;
+  }
   .logo {
     width: 580px;
   }

@@ -5,19 +5,24 @@
     {{ range $sections }}
       <article class="col-12 mt-5" id="{{ .Params.slug }}">
         <div class="row justify-content-center"><div class="w-100"></div>
-          <div class="col-auto align-self-center">
+          <div class="col-auto align-self-center text-center">
+            <div class="text-start">
             <h2>{{ .Title | markdownify}}</h2><div class="w-100"></div>
-            <div class="tag-line mb-2 mt-5 ms-5">{{ .Params.tag_line | markdownify }}</div><div class="w-100"></div>
+            <div class="tag-line mb-2 mt-5 ms-5">{{ .Params.tag_line | markdownify }}</div>
+            <div class="w-100"></div>
             <div class="ender mb-5">_</div>
-        </div>
-        <div class="page-content mt-5 row p-5 gx-5">
-          <div class="col-12 col-lg-6 text-justify">{{ .Summary }}</div>
-          <div class="col-12 col-lg-6 text-justify">{{ $both := split .RawContent "<!--more-->" }}
-          {{ index $both 1 | markdownify }}<br/>
-          <div class="ender text-yellow me-4">_</div>
-        </div>
+          </div>
         </div>
 
+        <div class="page-content mt-5 row p-5 gx-5">
+          <div class="col-12 col-lg-6 text-justify">{{ .Summary }}</div>
+            <div class="col-12 col-lg-6 text-justify">
+              {{ $both := split .RawContent "<!--more-->" }}
+              {{ index $both 1 | markdownify }}<br/>
+            <div class="ender text-yellow me-4">_</div>
+          </div>
+        </div>
+      </div>
       </article>
     {{ end }}
 
@@ -25,13 +30,13 @@
     {{ $sections := $people.Resources.ByType "page" }}
     {{ range $sections }}
       <article class="person col-12 col-lg-6 gx-0 mt-5 mb-2" id="{{ anchorize .Title }}">
-        <img src="{{ .Params.photo }}" class="img-fluid w-100 mb-4"/>
+        <img src="{{ .Params.photo }}" class="img-fluid w-100 mb-4" alt="{{ .Title }}"/>
         <div class="w-100"></div>
         <div class="person-details p-5">
           <h3>{{ .Title | markdownify}}</h3>
           <div class="w-100"></div>
-          <a href="{{.Params.linkedin}}"><img src="images/linkedin-gray.svg" class="mt-2 me-2"/></a>
-          <a href="https://twitter.com/{{.Params.twitter}}"><img src="images/twitter-gray.svg" class="mt-2"/></a>
+          <a href="{{.Params.linkedin}}"><img src="images/linkedin-gray.svg" class="mt-2 me-2" alt="linked in" /></a>
+          <a href="https://twitter.com/{{.Params.twitter}}"><img src="images/twitter-gray.svg" class="mt-2" alt="twitter" /></a>
           <div class="pt-5 pb-5 text-justify"> {{ .Content }} </div>
           <a class="btn btn-primary me-4" href="{{.Params.more}}" target="_blank">_read more</a>
         </div>
