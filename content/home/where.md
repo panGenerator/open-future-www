@@ -2,7 +2,7 @@
 title: "Where do  \nwe come  \n_from ?"
 weight: 2
 slug: where
-tag_line: "We are a new organisation, yet founded  \nby people active in the open movement  \nfor the last two decades."
+subtitle: "We are a new organisation, yet founded  \nby people active in the open movement  \nfor the last two decades."
 ---
 We are a new organisation, yet founded by people active in the open movement for the last two decades. We believe in openness, but also believe that it needs to be imagined anew. Today, openness increasingly functions as not just a challenge to concentrations of power, but also their enabler. Openness, once a rebel vision, is now part of the status quo - one that needs to be questioned.
 <!--more-->

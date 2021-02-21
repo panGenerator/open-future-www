@@ -78,8 +78,8 @@ h3 {
   line-height: 0;
 }
 
-.tag-line {
-  font-size: 1.1em;
+.subtitle {
+  font-size: 1em;
   font-family: 'ArgestaItalic', 'Helvetica', sans-serif;
   color: $secondary;
   display:inline-block;
@@ -135,10 +135,14 @@ h3 {
     font-family: 'Chaney', 'Helvetica', sans-serif;
     text-transform: uppercase;
   }
+  .info {
+    font-size: 0.8em;
+  }
 }
 .page-content {
   position: relative;
   .ender {
+    margin-right: 2.5rem;
     position:absolute;
     bottom:0;
     right:0;
@@ -170,9 +174,9 @@ h3 {
     font-size: 3.5em;
   }
   .lead .lead-content {
-    font-size: 1em;
+    font-size: 0.9em;
   }
-  .tag-line {
+  .subtitle {
     font-size: 1.5em;
   }
   .logo {

@@ -2,7 +2,7 @@
 title: "The Open  \n_Movement"
 weight: 1
 slug: open_movement
-tag_line: "We believe that here in Europe  \n we can launch a mission to keep  \nthe internet open and make it better."
+subtitle: "We believe that here in Europe  \n we can launch a mission to keep  \nthe internet open and make it better."
 ---
 At Open Future, we explore challenges that the digital world faces not just right now, but also in the future. We do this in order to design policies that address these challenges today. We put our knowledge, experience and focus to work along EU institutions, decision makers and civic society on understanding the challenges from all the necessary perspectives.
 

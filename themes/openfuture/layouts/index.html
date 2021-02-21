@@ -7,19 +7,20 @@
         <div class="row justify-content-center"><div class="w-100"></div>
           <div class="col-auto align-self-center text-center">
             <div class="text-start">
-            <h2>{{ .Title | markdownify}}</h2><div class="w-100"></div>
-            <div class="tag-line mb-2 mt-5 ms-5">{{ .Params.tag_line | markdownify }}</div>
-            <div class="w-100"></div>
-            <div class="ender mb-5">_</div>
+              <h2>{{ .Title | markdownify}}</h2>
+              <div class="w-100"></div>
+              <div class="subtitle mb-2 mt-5 ms-5">{{ .Params.subtitle | markdownify }}</div>
+              <div class="w-100"></div>
+              <div class="ender mb-5">_</div>
           </div>
         </div>
 
-        <div class="page-content mt-5 row p-5 gx-5">
+        <div class="page-content mt-5 row py-5 px-3 gx-5">
           <div class="col-12 col-lg-6 text-justify">{{ .Summary }}</div>
             <div class="col-12 col-lg-6 text-justify">
               {{ $both := split .RawContent "<!--more-->" }}
               {{ index $both 1 | markdownify }}<br/>
-            <div class="ender text-yellow me-4">_</div>
+            <div class="ender text-yellow">_</div>
           </div>
         </div>
       </div>

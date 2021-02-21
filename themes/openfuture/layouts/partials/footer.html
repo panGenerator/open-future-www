@@ -8,7 +8,9 @@
   </a>
   <a class="email" href="mailto:{{ .Params.email }}">{{ .Params.email }}</a>
   </div>
-  <div class="col-12 col-lg-6 text-center align-self-center py-3">
-    {{ .Params.footer | markdownify }}
+  <div class="info col-12 col-lg-6 align-self-center py-3 d-flex">
+    <div class="text-center text-lg-start align-self-center mx-auto d-flex">
+      {{ .Params.footer | markdownify }}
+    </div>
   </div>
 </div>
