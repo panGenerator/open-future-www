@@ -9,7 +9,7 @@
             <div class="text-start">
               <h2>{{ .Title | markdownify}}</h2>
               <div class="w-100"></div>
-              <div class="subtitle mb-2 mt-5 ms-5">{{ .Params.subtitle | markdownify }}</div>
+              <div class="subtitle mt-4 mt-md-2 mt-2 mt-md-5 ms-5">{{ .Params.subtitle | markdownify }}</div>
               <div class="w-100"></div>
               <div class="ender mb-5">_</div>
           </div>
@@ -20,7 +20,7 @@
             <div class="col-12 col-lg-6 text-justify">
               {{ $both := split .RawContent "<!--more-->" }}
               {{ index $both 1 | markdownify }}<br/>
-            <div class="ender text-yellow">_</div>
+            <div class="ender text-yellow mb-5">_</div>
           </div>
         </div>
       </div>

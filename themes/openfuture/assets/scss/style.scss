@@ -79,9 +79,10 @@ h3 {
 }
 
 .subtitle {
-  font-size: 1em;
+  font-size: 1.1em;
   font-family: 'ArgestaItalic', 'Helvetica', sans-serif;
   color: $secondary;
+  line-height:1.2em;
   display:inline-block;
 }
 
@@ -167,7 +168,7 @@ h3 {
   h1{
     font-size:2.5em;
   }
-  h2{
+  h2, .ender{
     font-size: 4em;
   }
   h3{
