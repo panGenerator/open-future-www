@@ -3,12 +3,13 @@
   <div class="w-100"></div>
   <div class="col-lg-6 col-12 lead p-5">
     <div class="row justify-content-center">
-      <div class="col-auto align-self-center">
+      <div class="col-8 align-self-center">
         <h1>{{ .Title | markdownify }}</h1>
       </div>
       <div class="w-100"></div>
-      <div class="col-6 col-sm-5 col-lg-8 align-self-center lead-content mt-4 pb-3 pb-md-0">
-        {{ .Content }}
+      <div class="col-8 align-self-center lead-content mt-4 pb-3 pb-md-0">
+        <div class="row d-flex">
+          <div class="col-8 offset-2 align-self-center">{{ .Content }}</div></div>
       </div>
     </div>
     <a href="?" class="btn btn-primary p-3">_read more</a>
