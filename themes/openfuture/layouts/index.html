@@ -26,20 +26,17 @@
       </div>
       </article>
     {{ end }}
-
-    {{ $people := .Site.GetPage "/people" }}
-    {{ $sections := $people.Resources.ByType "page" }}
-    {{ range $sections }}
+    {{ range (where .Site.RegularPages.ByWeight "Section" "people" ) }}
       <article class="person col-12 col-lg-6 gx-0 mt-5 mb-2" id="{{ anchorize .Title }}">
         <img src="{{ .Params.photo }}" class="img-fluid w-100 mb-4" alt="{{ .Title }}"/>
         <div class="w-100"></div>
         <div class="person-details p-5">
           <h3>{{ .Title | markdownify}}</h3>
           <div class="w-100"></div>
-          <a href="{{.Params.linkedin}}"><img src="images/linkedin-gray.svg" class="mt-2 me-2" alt="linked in" /></a>
-          <a href="https://twitter.com/{{.Params.twitter}}"><img src="images/twitter-gray.svg" class="mt-2" alt="twitter" /></a>
-          <div class="pt-5 pb-5 text-justify"> {{ .Content }} </div>
-          <a class="btn btn-primary me-4" href="{{.Params.more}}" target="_blank">_read more</a>
+          <a href="{{.Params.linkedin}}"><img src="/images/linkedin-gray.svg" class="mt-2 me-2" alt="linked in" /></a>
+          <a href="https://twitter.com/{{.Params.twitter}}"><img src="/images/twitter-gray.svg" class="mt-2" alt="twitter" /></a>
+          <div class="pt-5 pb-5 text-justify"> {{ .Summary }} </div>
+          <a class="btn btn-primary me-4" href="{{.Permalink}}" target="_blank">_read more</a>
         </div>
       </article>
     {{ end }}

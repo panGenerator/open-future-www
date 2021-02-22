@@ -1,7 +1,5 @@
 <div class="row header justify-content-center">
-  <div class="col-auto py-5 align-self-center text-center">
-    <img src="{{ .Params.header_image }}" class="logo" alt="logo" />
-  </div>
+  {{- partial "logo.html" . -}}
   <div class="w-100"></div>
   <div class="col-lg-6 col-12 lead p-5">
     <div class="row justify-content-center">

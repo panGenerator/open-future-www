@@ -1,16 +1,16 @@
 <div class="footer row mt-5 justify-content-center">
   <div class="social py-5 col-12 col-lg-6 align-self-center text-center">
   <a href="https://www.linkedin.com/company/open-future-foundation/">
-    <img src="images/linkedin.svg" class="me-3" alt="linked in" />
+    <img src="/images/linkedin.svg" class="me-3" alt="linked in" />
   </a>
   <a href="https://twitter.com/openfutureEU" class="me-3">
-    <img src="images/twitter.svg" alt="twitter" />
+    <img src="/images/twitter.svg" alt="twitter" />
   </a>
-  <a class="email" href="mailto:{{ .Params.email }}">{{ .Params.email }}</a>
+  <a class="email" href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a>
   </div>
   <div class="info col-12 col-lg-6 align-self-center py-3 d-flex">
     <div class="text-center text-lg-start align-self-center mx-auto d-flex">
-      {{ .Params.footer | markdownify }}
+      {{ .Site.Params.footer | markdownify }}
     </div>
   </div>
 </div>
