@@ -1,6 +1,7 @@
 ---
 title: "Paul Keller"
 photo: "/images/paul.png"
+photo_attr: "[Giorgos Gripeos](http://www.giorgosgripeosphotography.com) ([CC BY](https://creativecommons.org/licenses/by/4.0/))"
 weight: 1
 linkedin: https://www.linkedin.com/in/paulkeller
 twitter: paul_keller

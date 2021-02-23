@@ -15,6 +15,14 @@ body {
   color: $primary;
 }
 
+a {
+  text-decoration: none;
+  background: #e6e6e6;
+  &:hover {
+    background: $yellow;
+  }
+}
+
 .btn {
   font-family: 'Chaney', 'Helvetica', sans-serif;
   text-transform: uppercase;
@@ -92,6 +100,9 @@ h3 {
   background: #fff;
   max-width:1200px;
 }
+.main-person{
+  max-width: 768px;
+}
 
 .social, .lead {
   background: $yellow;
@@ -118,6 +129,15 @@ h3 {
     bottom:0;
     right: 0;
   }
+  .photo_attribution {
+    font-family: 'ArgestaItalic', 'Helvetica', sans-serif;
+    color: #b3b3b3;
+    font-size: 0.7em;
+    a {
+      background:none;
+      color: #b3b3b3;
+    }
+  }
   .person-details {
     h2 {
       width: 30%;
@@ -130,11 +150,13 @@ h3 {
 }
 .logo {
   width: 70%;
+  background:none;
 }
 
 .footer {
   a {
     text-decoration: none;
+    background:none;
     font-family: 'Chaney', 'Helvetica', sans-serif;
     text-transform: uppercase;
   }
