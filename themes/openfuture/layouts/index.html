@@ -15,7 +15,7 @@
           </div>
         </div>
 
-        <div class="page-content mt-5 row py-5 px-3 gx-5">
+        <div class="page-content mt-3 row py-5 px-3 gx-5">
           <div class="col-12 col-lg-6 text-justify">{{ .Summary }}</div>
             <div class="col-12 col-lg-6 text-justify">
               {{ $both := split .RawContent "<!--more-->" }}
@@ -33,10 +33,10 @@
         <div class="person-details p-5">
           <h3>{{ .Title | markdownify}}</h3>
           <div class="w-100"></div>
-          <a href="{{.Params.linkedin}}"><img src="/images/linkedin-gray.svg" class="mt-2 me-2" alt="linked in" /></a>
-          <a href="https://twitter.com/{{.Params.twitter}}"><img src="/images/twitter-gray.svg" class="mt-2" alt="twitter" /></a>
+          <a href="https://twitter.com/{{.Params.twitter}}"><img src="/images/twitter-gray.svg" class="mt-2 me-2" alt="twitter" /></a>
+          <a href="{{.Params.linkedin}}"><img src="/images/linkedin-gray.svg" class="mt-2" alt="linked in" /></a>
           <div class="pt-5 pb-5 text-justify"> {{ .Summary }} </div>
-          <a class="btn btn-primary me-5" href="{{.Permalink}}" target="_blank">_read more</a>
+          <a class="btn btn-primary me-5" href="{{.Permalink}}">_read more</a>
         </div>
       </article>
     {{ end }}
