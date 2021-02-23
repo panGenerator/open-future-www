@@ -37,7 +37,7 @@
           <a href="https://twitter.com/{{.Params.twitter}}" class="bg-body"><img src="/images/twitter-gray.svg" class="mt-2 me-2" alt="twitter" /></a>
           <a href="{{.Params.linkedin}}" class="bg-body"><img src="/images/linkedin-gray.svg" class="mt-2" alt="linked in" /></a>
           <div class="pt-5 pb-5 text-justify"> {{ .Summary }} </div>
-          <a class="btn btn-primary me-5" href="{{.Permalink}}">_read more</a>
+          <a class="btn btn-primary me-5" href="{{.RelPermalink}}">_read more</a>
         </div>
       </article>
     {{ end }}
