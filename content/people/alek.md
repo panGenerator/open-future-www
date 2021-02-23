@@ -1,6 +1,7 @@
 ---
 title: "Alek Tarkowski"
 photo: "/images/alek.png"
+photo_attr: "Krzysztof Pacholak ([CC BY](https://creativecommons.org/licenses/by/4.0/))"
 weight: 2
 linkedin: https://www.linkedin.com/in/alek-tarkowski
 twitter: atarkowski

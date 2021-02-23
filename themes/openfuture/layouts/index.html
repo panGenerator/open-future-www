@@ -28,13 +28,14 @@
     {{ end }}
     {{ range (where .Site.RegularPages.ByWeight "Section" "people" ) }}
       <article class="person col-12 col-lg-6 gx-0 mt-5 mb-2" id="{{ anchorize .Title }}">
-        <img src="{{ .Params.photo }}" class="img-fluid w-100 mb-4" alt="{{ .Title }}"/>
+        <img src="{{ .Params.photo }}" class="img-fluid w-100 mb-1" alt="{{ .Title }}"/>
+        <div class="photo_attribution mb-4 text-end me-3">photo: {{ .Params.photo_attr | markdownify}}</div>
         <div class="w-100"></div>
         <div class="person-details p-5">
           <h3>{{ .Title | markdownify}}</h3>
           <div class="w-100"></div>
-          <a href="https://twitter.com/{{.Params.twitter}}"><img src="/images/twitter-gray.svg" class="mt-2 me-2" alt="twitter" /></a>
-          <a href="{{.Params.linkedin}}"><img src="/images/linkedin-gray.svg" class="mt-2" alt="linked in" /></a>
+          <a href="https://twitter.com/{{.Params.twitter}}" class="bg-body"><img src="/images/twitter-gray.svg" class="mt-2 me-2" alt="twitter" /></a>
+          <a href="{{.Params.linkedin}}" class="bg-body"><img src="/images/linkedin-gray.svg" class="mt-2" alt="linked in" /></a>
           <div class="pt-5 pb-5 text-justify"> {{ .Summary }} </div>
           <a class="btn btn-primary me-5" href="{{.Permalink}}">_read more</a>
         </div>
