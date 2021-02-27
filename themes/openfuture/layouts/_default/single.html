@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  {{- partial "head.html" . -}}
+  <body>
+    <main class="main main-page container-fluid container-xl">
+      <div class="row header justify-content-center">
+        {{- partial "logo.html" . -}}
+      </div>
+      <div class="row content">
+        <article class="page col-12 gx-0 mb-2" id="{{ anchorize .Title }}">
+          <div class="page-details px-5">
+            <h1>{{ .Title | markdownify}}</h1>
+            <div class="w-100"></div>
+            <div class="date">{{ .Date.Format "January 2, 2006" }} </div>
+            <div class="pt-1 pb-1 text-justify">{{ .Content }}</div>
+          </div>
+        </article>
+      </div>
+      {{- partial "footer.html" . -}}
+    </main>
+  </body>
+</html>

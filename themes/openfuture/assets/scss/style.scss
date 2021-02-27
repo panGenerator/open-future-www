@@ -121,7 +121,13 @@ h3 {
     line-height: 1.1em;
   }
 }
-
+.page {
+  .date{
+  font-family: 'ArgestaItalic', 'Helvetica', sans-serif;
+  color: #b3b3b3;
+  font-size: 0.9em;
+  }
+}
 .person {
   position:relative;
   .btn{
