@@ -1,5 +1,5 @@
 ---
-title: "Who are  \n_we?"
+title: "Who are \n_we?"
 weight: 3
 slug: who
 subtitle: ""
