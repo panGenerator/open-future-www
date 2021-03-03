@@ -7,4 +7,4 @@ disableKinds = ["RSS", "sitemap", "section", "taxonomy", "term", "robotsTXT"]
 [params]
   email = "hello@openfuture.eu"
   logo_image = "/images/logo.svg"
-  footer = "All content is published in the Public Domain  \nRead our statues."
+  footer = "All content is published in the [Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)  \nRead our [statues](https://openfuture.eu/files/201023statutes_en.pdf)."
