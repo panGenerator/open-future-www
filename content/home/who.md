@@ -2,7 +2,6 @@
 title: "Who are  \n_we?"
 weight: 3
 slug: who
-subtitle: ""
 ---
 The Open Future Foundation (Stichting Open Future) was founded by Paul Keller and Alek Tarkowski at the end of 2020. Paul and Alek are jointly leading the organisation as its co-Directors. Open Future is a member of the [COMMUNIA Association for the Public Domain](http://communia-association.org/). Together with the Commons Network we are working towards a "[Vision for a Shared Digital Europe](http://shared-digital.eu/vision/)"
 <!--more-->

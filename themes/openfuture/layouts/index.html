@@ -11,7 +11,7 @@
               <div class="w-100"></div>
               <div class="subtitle mt-4 mt-md-2 mt-2 mt-md-5 ms-5">{{ .Params.subtitle | markdownify }}</div>
               <div class="w-100"></div>
-              <div class="ender mb-5">_</div>
+              {{ if isset .Params "subtitle" }}<div class="ender mb-5">_</div>{{ end }}
           </div>
         </div>
 
