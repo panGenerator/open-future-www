@@ -1,5 +1,5 @@
 ---
-title: "Where do  \nwe come  \n_from ?"
+title: "We believe in \n_OPen"
 weight: 2
 slug: where
 subtitle: "We are a new organisation, yet founded  \nby people active in the open movement  \nfor the last two decades."

@@ -7,7 +7,7 @@ linkedin: https://www.linkedin.com/in/paulkeller
 twitter: paul_keller
 website: https://publicspace.online
 ---
-Paul has almost 20 years of experience as a media activist, open policy advocate and systems architect to improve access to knowledge and culture. A political scientist by training, Paul has a deep understanding of the digital transformation's political, social and legal implications. Prior to founding Open Future Paul has served for ten years as the co-director of [Kennisland](https://www.kl.nl), an Amsterdam based think-tank working on issues related to the knowledge economy. Before joining Kennisland in 2007, Paul worked at [Waag](https://www.waag.org) as head of the Public Research programme.
+Paul is the Policy Director at Open Future. He has almost 20 years of experience as a media activist, open policy advocate and systems architect to improve access to knowledge and culture. A political scientist by training, Paul has a deep understanding of the digital transformation's political, social and legal implications. Prior to founding Open Future Paul has served for ten years as the co-director of [Kennisland](https://www.kl.nl), an Amsterdam based think-tank working on issues related to the knowledge economy. Before joining Kennisland in 2007, Paul worked at [Waag](https://www.waag.org) as head of the Public Research programme.
 <!--more-->
 Paul is a research fellow at the [Institute for Information Law](https://www.ivir.nl/) of the University of Amsterdam and sits on the advisory boards of the [Glushko & Samuelson Information Law and Policy Lab](https://ilplab.nl/) and the [Europeana Foundation](https://pro.europeana.eu/).
 

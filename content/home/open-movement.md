@@ -1,5 +1,5 @@
 ---
-title: "The Open  \n_Movement"
+title: "An Open \n_Future"
 weight: 1
 slug: open_movement
 subtitle: "We believe that here in Europe  \n we can launch a mission to keep  \nthe internet open and make it better."

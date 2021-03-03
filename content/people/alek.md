@@ -7,7 +7,7 @@ linkedin: https://www.linkedin.com/in/alek-tarkowski
 twitter: atarkowski
 website: http://alektarkowski.pl
 ---
-Alek has over 15 years of experience with public interest advocacy, movement building and research into the interesection of society, culture and digital technologies. He is a sociologist by training and holds a PhD in sociology from the Polish Academy of Science. In 2010 he established Centrum Cyfrowe, one of leading Polish organisations promoting internet users' openness and rights. He led [Centrum Cyfrowe](https://centrumcyfrowe.pl/en) for ten years as the Director and President of the Board.
+Alek is the Strategy Director at Open Future. He has over 15 years of experience with public interest advocacy, movement building and research into the interesection of society, culture and digital technologies. He is a sociologist by training and holds a PhD in sociology from the Polish Academy of Science. In 2010 he established Centrum Cyfrowe, one of leading Polish organisations promoting internet users' openness and rights. He led [Centrum Cyfrowe](https://centrumcyfrowe.pl/en) for ten years as the Director and President of the Board.
 <!--more-->
 In 2005, he co-founded [Creative Commons Poland](http://creativecommons.pl/) and had since then been an active member of the [Creative Commons network](http://network.creativecommons.org/). He is currently a member of the Board of Directors of [Creative Commons](https://creativecommons.org/), member of the Executive Committee of the Global Network Council and representative of CC Poland to the network.
 
