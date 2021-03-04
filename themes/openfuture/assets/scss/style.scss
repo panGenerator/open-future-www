@@ -41,6 +41,15 @@ a {
 .text-yellow {
   color: $yellow;
 }
+.text-small {
+  font-size: 0.7em;
+  a {
+    background: none;
+    &:hover{
+      background:none;
+    }
+  }
+}
 input:focus, .btn:focus {
   outline: none;
 }

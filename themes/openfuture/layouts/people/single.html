@@ -3,15 +3,19 @@
   {{- partial "head.html" . -}}
   <body>
     <main class="main main-person container-fluid container-xl">
-      <div class="row header justify-content-center">
-        {{- partial "logo.html" . -}}
+      <div class="row">
+        <div class="col-4 offset-1 text-center mt-5">
+          <a href="/" class="bg-body"><img src="{{ .Site.Params.logo_image }}" class="logo img-fluid" alt="logo" /></a>
+        </div>
+        <div class="col-6 offset-1 text-center gx-0">
+          <img src="{{ .Params.photo }}" class="img-fluid w-100 mb-1" alt="{{ .Title }}"/>
+          <div class="photo_attribution text-small mb-4 text-end me-3">photo: {{ .Params.photo_attr | markdownify}}</div>
+        </div>
       </div>
       <div class="row content">
-        <article class="person col-12 gx-0 mt-5 mb-2" id="{{ anchorize .Title }}">
-          <img src="{{ .Params.photo }}" class="img-fluid w-100 mb-1" alt="{{ .Title }}"/>
-          <div class="photo_attribution mb-4 text-end me-3">photo: {{ .Params.photo_attr | markdownify}}</div>
+        <article class="person col-12 gx-0 mb-2" id="{{ anchorize .Title }}">
           <div class="w-100"></div>
-          <div class="person-details p-5">
+          <div class="person-details text-small pb-5 pe-5 ps-5">
             <h3>{{ .Title | markdownify}}</h3>
             <div class="w-100"></div>
             <a href="{{.Params.linkedin}}" class="bg-body"><img src="/images/linkedin-gray.svg" class="mt-2 me-2" alt="linked in" /></a>
