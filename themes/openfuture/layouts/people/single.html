@@ -4,12 +4,12 @@
   <body>
     <main class="main main-person container-fluid container-xl">
       <div class="row">
-        <div class="col-4 offset-1 text-center mt-5">
+        <div class="col-4 offset-1 text-center mt-5 gx-0 gx-sm-5">
           <a href="/" class="bg-body"><img src="{{ .Site.Params.logo_image }}" class="logo img-fluid" alt="logo" /></a>
         </div>
         <div class="col-6 offset-1 text-center gx-0">
           <img src="{{ .Params.photo }}" class="img-fluid w-100 mb-1" alt="{{ .Title }}"/>
-          <div class="photo_attribution text-small mb-4 text-end me-3">photo: {{ .Params.photo_attr | markdownify}}</div>
+          <div class="photo_attribution text-small attr_bio mb-4 text-end me-3">photo: {{ .Params.photo_attr | markdownify}}</div>
         </div>
       </div>
       <div class="row content">

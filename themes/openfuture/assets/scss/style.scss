@@ -50,6 +50,9 @@ a {
     }
   }
 }
+.attr_bio{
+  font-size: 0.6em;
+}
 input:focus, .btn:focus {
   outline: none;
 }
@@ -59,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size:2.2em;
+  font-size: 2.2em;
   line-height: 0.9em;
 }
 
@@ -77,6 +80,7 @@ h3 {
   line-height: 0.9em;
   width: 25%;
 }
+
 .newsletter-cta {
   background: #666;
   color: #fff;
@@ -202,6 +206,9 @@ h3 {
   h3{
 
   }
+  .attr_bio{
+    font-size: 0.7em;
+  }
 }
 
 @include media-breakpoint-up(md) {
@@ -237,6 +244,7 @@ h3 {
       height: 2.0687em;
     }
   }
+
 }
 
 @include media-breakpoint-up(lg) {
