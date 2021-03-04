@@ -16,7 +16,7 @@ Morbi tempor tellus vel erat ornare mollis cursus euismod odio. Nunc molestie li
 
 ### this is a level 3 heading 
 
-And here we habe a list of things:
+And here we have a list of things:
 
 * One 
 * Two 
