@@ -23,4 +23,4 @@ Open Future is a non-profit think tank founded by Paul Keller and Alek Tarkowski
 
 Arcadia is a charitable fund of Lisbet Rausing and Peter Baldwin. It supports charities and scholarly institutions that preserve cultural heritage and the environment. Arcadia also supports projects that promote open access and all of its awards are granted on the condition that any materials produced are made available for free online. Since 2002, Arcadia has awarded more than $777 million to projects around the world.
 
-![Arcadia logo]()
+![Arcadia logo](http://www.openfuture.eu/images/Acadia Logo.png)
