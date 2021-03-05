@@ -53,6 +53,9 @@ a {
     }
   }
 }
+.error-content {
+  height: 75vh;
+}
 .attr_bio{
   font-size: 0.6em;
 }
@@ -89,23 +92,32 @@ h3 {
   }
   h2 {
     font-size: 2.5em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    line-height: unset;
   }
   h3 {
     font-size: 2em;
+    line-height: unset;
+    margin-bottom: 0.5em;
+    margin-bottom: 0.5em;
     width: auto;
   }
   h4 {
     font-size: 1.5em;
+    margin-bottom: 0.5em;
   }
   h5{
     font-size: 1em;
+    margin-bottom: 0.5em;
   }
+  p { margin: 0.5em;}
 }
 blockquote {
   margin-left: 2em;
   font-family: 'ArgestaItalic', 'Helvetica', sans-serif;
   font-size: 1.2rem;
-  line-height: 1.3rem;
+  line-height: 1.5rem;
 }
 .newsletter-cta {
   background: #666;
@@ -226,6 +238,9 @@ blockquote {
   .attr_bio{
     font-size: 0.7em;
   }
+  .main-person .logo{
+    width: auto;
+  }
 }
 
 @include media-breakpoint-up(md) {
@@ -245,18 +260,23 @@ blockquote {
   .page {
     h1 {
       font-size: 3.5em;
+      margin-bottom: 0.5em;
     }
     h2 {
-      font-size: 3em;
+      font-size: 2em;
+      margin-bottom: 2em;
     }
     h3 {
-      font-size: 2.5em;
+      font-size: 1.8em;
+      margin-bottom: 0.5em;
     }
     h4 {
-      font-size: 2em;
+      font-size: 1.6em;
+      margin-bottom: 0.5em;
     }
     h5{
-      font-size: 1.5em;
+      font-size: 1.3em;
+      margin-bottom: 0.5em;
     }
   }
   .lead .lead-content {
