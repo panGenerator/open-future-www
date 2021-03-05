@@ -3,7 +3,7 @@ title: "Open Future Foundation - a new think tank for the Open Movement launched
 date: 2021-03-06
 publishdate: 2021-03-05
 ---
-Amsterdam/Warsaw, March x, 2021 - Today the Open Future Foundation, a new think tank for the open movement, has launched. Open Future's goal is to strengthen the European advocacy efforts conducted by organisations advocating for open access to knowledge and culture and to ensure that the principles of this open movement are reflected in the European Union's digital policy framework. Open Future has a long term vision that aspires to identify policy opportunities that exist beyond the work programme of the current European Commission.
+Amsterdam/Warsaw, March 5, 2021 - Today the Open Future Foundation, a new think tank for the open movement, has launched. Open Future's goal is to strengthen the European advocacy efforts conducted by organisations advocating for open access to knowledge and culture and to ensure that the principles of this open movement are reflected in the European Union's digital policy framework. Open Future has a long term vision that aspires to identify policy opportunities that exist beyond the work programme of the current European Commission.
 
 > "We believe in the digital commons and shared and public internet. We will advance these causes by building narratives, research and strategic advocacy work. We believe that Europe has a chance of building a fair, shared digital space that can have an impact globally. We want to be part of this effort" said [Paul Keller](https://www.openfuture.eu/people/paul/), Director of Policy at Open Future
 
