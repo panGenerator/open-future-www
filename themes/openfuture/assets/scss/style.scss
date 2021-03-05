@@ -43,6 +43,9 @@ a {
 }
 .text-small {
   font-size: 0.7em;
+
+}
+.text-small.photo_attribution{
   a {
     background: none;
     &:hover{
