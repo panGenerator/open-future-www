@@ -32,7 +32,7 @@ d3.select('svg#logo')
   .transition().delay(200).duration(2000).ease(d3.easeQuadInOut)
   .attr('transform','translate(125,125),rotate(90)')
 
-document.addEventListener("DOMContentLoaded",function() {
+//document.addEventListener("DOMContentLoaded",function() {
 d3.select('svg#logo')
   .select('g#icon')
   .selectAll('path')
@@ -46,6 +46,6 @@ d3.select('svg#logo')
   .attr('transform','translate(0,0)')
   .attr('d', arc())
   .attr('fill', d => d.accent ? colorScale()(d.color) : "#fdf151")
-})
+//})
 
 
