@@ -9,6 +9,9 @@
   "author": "Krzysztof Golinski <kgolinski@pangenerator.com>",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.0.0-beta1"
+    "@pangenerator/utils": "^2.4.0",
+    "bootstrap": "^5.0.0-beta1",
+    "canvas-sketch-util": "^1.10.0",
+    "d3": "^6.3.1"
   }
 }
