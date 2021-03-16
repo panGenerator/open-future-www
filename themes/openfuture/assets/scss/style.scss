@@ -236,6 +236,11 @@ blockquote {
     right:0;
   }
 }
+svg#logo {
+  max-width: 70%;
+  height: auto;
+}
+
 @include media-breakpoint-up(sm) {
   .attr_bio{
     font-size: 0.7em;
@@ -290,6 +295,10 @@ blockquote {
   .logo {
     width: 580px;
   }
+  svg#logo {
+    max-width: 580px;
+    height: auto;
+  }
   .form-bg {
     .form-bg-inner{
       width:80%;
@@ -322,11 +331,3 @@ blockquote {
   }
 }
 
-svg#logo #icon{
-  -webkit-animation:spin 1s linear infinite;
-  -moz-animation:spin 1s linear infinite;
-  animation:spin 1s linear infinite;
-}
-@-moz-keyframes spin { 100% { -moz-transform: translate(125, 125) rotate(360deg); } }
-@-webkit-keyframes spin { 100% { -webkit-transform: translate(125, 125)  rotate(360deg); } }
-@keyframes spin { 100% { -webkit-transform: translate(125, 125) rotate(360deg); transform:translate(125, 125)  rotate(360deg); } }
