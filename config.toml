@@ -1,4 +1,4 @@
-baseURL = "http://openfuture.eu"
+baseURL = "https://openfuture.eu"
 languageCode = "en-us"
 title = "Open Future"
 theme = "openfuture"
