@@ -15,4 +15,4 @@
   </div>
 </div>
 {{- $script := resources.Get "/js/logo.js" | js.Build (dict "minify" true "target" "es2015") | fingerprint -}}
-<script src="{{ $script.Permalink }}"></script>
+<script src="{{ $script.RelPermalink }}"></script>
