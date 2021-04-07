@@ -7,7 +7,7 @@ linkedin: https://www.linkedin.com/in/caterina-fantoni/
 twitter: 
 website: 
 ---
-Kasia is the Policy Officer at Open Future. She is a skilled Public Affairs and Communications professional with experience in coordinating cross-discipline, multi stakeholder international projects.
+Kasia is a Policy Officer at Open Future. She is a skilled Public Affairs and Communications professional with experience in coordinating cross-discipline, multi stakeholder international projects.
 
 With an academic background in [Media, Economics and International Law](https://www.unive.it/pag/13526/), Kasia has a broad understanding of the EU policies in the SDGs area.
 
