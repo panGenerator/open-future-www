@@ -5,8 +5,6 @@ publishdate: 2021-04-08
 ---
 On the 9th of March the European Commission presented its long term (10 year) strategy for shaping the digital transformation in Europe. In a Communication titled &quot;[2030 Digital Compass: the European way for the Digital Decade](https://eur-lex.europa.eu/resource.html?uri=cellar:12e835e2-81af-11eb-9ac9-01aa75ed71a1.0001.02/DOC_1&amp;format=PDF)&quot; the Commission outlines a number of broad policy objectives for the remainder of what it has termed Europe&#39;s &quot;digital decade&quot;.
 
-![compass](/images/paul.png)
-
 While it is welcome that the European Commission has presented a long-term vision for its digital policy agenda, the substance of the communication is far from convincing. Instead of presenting a strategy outlining how the use (and regulation) of digital technology can contribute to solving urgent societal problems, **the Digital Compass primarily consists of a series of quantitative targets. And while some of these targets address real challenges, others seem primarily inspired by the belief that technological progress in itself will provide solutions for the societal challenges that Europe is facing.**
 
 This brief examines the Digital Compass communication with an aim to understand how the digital transformation can be better leveraged to achieve a number of key policy objectives. It proposes that instead of quantitative targets that the Commission has presented it should be these broad policy objectives that should guide the European Union&#39;s policy making in the digital space during the remainder of the digital decade.
@@ -57,3 +55,5 @@ In our [Contribution to the Commission&#39;s roadmap consultation on the initial
 1. Any strategy in this area must be based on societal outcomes such as the green transformation of the economy, the reduction of economic inequality and support for democratic norms and values. Support for specific technologies and legislative interventions must be made conditional on their contribution to these overall objectives.
 2. The European Union should invest in interoperable public digital infrastructures that reflect the civic and public values underpinning our democratic societies and can become the basis for a strong digital public sphere. A focus on public digital infrastructure can also contribute to reducing our dependence on a small number of commercial gatekeeping platforms and increasing Europe&#39;s digital sovereignty.
 3. In order to leverage the potential of digital communication tools to reduce inequality and increase democratic participation, the proposed set of digital principles must include a strong focus on access rights to information and culture. Public investment must be focussed on building digital commons wherever possible, to ensure that key digital resources exist as public goods.
+
+![compass](/images/compass.png)
