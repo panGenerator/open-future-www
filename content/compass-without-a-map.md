@@ -5,7 +5,7 @@ publishdate: 2021-04-08
 ---
 On the 9th of March the European Commission presented its long term (10 year) strategy for shaping the digital transformation in Europe. In a Communication titled &quot;[2030 Digital Compass: the European way for the Digital Decade](https://eur-lex.europa.eu/resource.html?uri=cellar:12e835e2-81af-11eb-9ac9-01aa75ed71a1.0001.02/DOC_1&amp;format=PDF)&quot; the Commission outlines a number of broad policy objectives for the remainder of what it has termed Europe&#39;s &quot;digital decade&quot;.
 
-![compass](/images/compass.png)
+![compass](/images/paul.png)
 
 While it is welcome that the European Commission has presented a long-term vision for its digital policy agenda, the substance of the communication is far from convincing. Instead of presenting a strategy outlining how the use (and regulation) of digital technology can contribute to solving urgent societal problems, **the Digital Compass primarily consists of a series of quantitative targets. And while some of these targets address real challenges, others seem primarily inspired by the belief that technological progress in itself will provide solutions for the societal challenges that Europe is facing.**
 
