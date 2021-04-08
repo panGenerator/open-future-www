@@ -9,13 +9,13 @@ While it is welcome that the European Commission has presented a long-term visio
 
 This brief examines the Digital Compass communication with an aim to understand how the digital transformation can be better leveraged to achieve a number of key policy objectives. It proposes that instead of quantitative targets that the Commission has presented it should be these broad policy objectives that should guide the European Union&#39;s policy making in the digital space during the remainder of the digital decade.
 
-###Context
+### Context
 
 The Commission&#39;s communication comes in response to an October 2020 invitation by the European Council &quot;to present a comprehensive Digital Compass by March 2021&quot; that would outline &quot;digital ambitions for 2030, establishing a monitoring system and outlining key milestones and the means of achieving these ambitions&quot;. The work on this long-term strategy has taken place during a period during which the Commission also presented the tentpole proposals of its current digital policy agenda: The [Data Governance Act](https://digital-strategy.ec.europa.eu/en/library/data-governance-act), the [Digital Services Act](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/digital-services-act-ensuring-safe-and-accountable-online-environment_en) and the [Digital Markets Act](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_en) while at the same time finalising the [Digital Europe Programme](https://digital-strategy.ec.europa.eu/en/activities/digital-programme). As a result the Digital Compass communication is relatively light on specific policy interventions and instead focussed on identifying objectives and targets for the development of the digital space in the EU.
 
 The chosen time horizon until the end of the decade, spanning the work of the current and of the next European Commissions, seems appropriate for identifying strategic objectives in this field characterised by a fast pace of (technological) development. And while the strategy does not come with a dedicated budget, it is clearly intended to give direction to the 20% of the [Recovery and Resilience Facility](https://ec.europa.eu/info/business-economy-euro/recovery-coronavirus/recovery-and-resilience-facility_en) that have been earmarked to support the digital transition.
 
-###Objectives vs Targets
+### Objectives vs Targets
 
 The communication itself is divided into two main parts. The first one identifies policy objectives while the second one (the actual &quot;Digital Compass&quot;) identifies targets that the Commission seeks to achieve by the end of the digital decade and that the Commission will use to monitor progress towards realising the policy objectives.
 
@@ -32,9 +32,7 @@ On a very high level, the objective identified in the consultation is to &quot;b
 - Doubling the number of EU unicorns
 - 100% online provision of key public services
 
-While is clear that increasing the number of ICT specialists, improving connectivity across the continent and investments into key technologies underpinning digital value chains such as semiconductors
-# 1
-will be key to ensure that Europe maintains the ability to shape its own digital future, to build &quot;resilient, secure and trustworthy infrastructures and technologies&#39;&#39;, and to achieve a certain level of digital autonomy, the remainder of the targets is difficult to reconcile with the overall objectives expressed by the Commission. They seem stuck in the basic vision that more technology means better society, defined several decades ago. While ubiquitous access to digital technologies is indeed a basic necessity, Europe needs a vision that connects technological development to broader societal goals.
+While is clear that increasing the number of ICT specialists, improving connectivity across the continent and investments into key technologies underpinning digital value chains such as semiconductors will be key to ensure that Europe maintains the ability to shape its own digital future, to build &quot;resilient, secure and trustworthy infrastructures and technologies&#39;&#39;, and to achieve a certain level of digital autonomy, the remainder of the targets is difficult to reconcile with the overall objectives expressed by the Commission. They seem stuck in the basic vision that more technology means better society, defined several decades ago. While ubiquitous access to digital technologies is indeed a basic necessity, Europe needs a vision that connects technological development to broader societal goals.
 
 Instead of showing a clear pathway towards climate neutrality and more equitable distribution of economic prosperity these targets only measure the update uptake of specific technologies or encourage economic concentration for the sake of economic concentration. To put it more bluntly: Unless the commission provides evidence to the contrary, we cannot assume that increasing the number of companies with a market capitalisation exceeding €1 billion (the definition of a 🦄) will lead to a reduction in carbon emissions or create a more human centric digital economy. The same is true for the indiscriminate uptake of AI, big data or cloud computing. At best these targets will serve as indicators of Europe&#39;s technological competitiveness, but focussing on achieving these targets will not get Europe closer to address the big societal challenges of our time.
 
@@ -46,7 +44,7 @@ If achieving the ambitious policy objectives identified in the communication is 
 
 Such a reorientation to put digital technology at the service of societal outcomes must be one of the core missions for EU policy making in the decade to come. To achieve such a reorientation a mission-oriented approach would provide a much stronger model for attaining the Commission&#39;s goals than one using DESI-derived digital targets. While such targets may provide a useful tool for measuring progress, they cannot on its own constitute a framework for systemic change - which is necessary for Europe to attain the stated goals.
 
-###Mapping the course ahead
+### Mapping the course ahead
 
 The digital compass consultation sets an initial direction for the European union&#39;s strategic policy initiatives for the coming decade. Given that the digital decade is still young, there will hopefully be opportunities to correct course and more clearly tie digital policy interventions to the high level societal objectives identified in the first part of the communication.
 
@@ -57,5 +55,3 @@ In our [Contribution to the Commission&#39;s roadmap consultation](https://ec.eu
 1. Any strategy in this area must be based on societal outcomes such as the green transformation of the economy, the reduction of economic inequality and support for democratic norms and values. Support for specific technologies and legislative interventions must be made conditional on their contribution to these overall objectives.
 2. The European Union should invest in interoperable public digital infrastructures that reflect the civic and public values underpinning our democratic societies and can become the basis for a strong digital public sphere. A focus on public digital infrastructure can also contribute to reducing our dependence on a small number of commercial gatekeeping platforms and increasing Europe&#39;s digital sovereignty.
 3. In order to leverage the potential of digital communication tools to reduce inequality and increase democratic participation, the proposed set of digital principles must include a strong focus on access rights to information and culture. Public investment must be focussed on building digital commons wherever possible, to ensure that key digital resources exist as public goods.
-
-[1](#sdfootnote1anc)While certainly ambitious the goal to increase the amount of EU produced and designed semiconductors got much more realistic with Intel&#39;s recent announcement to substantially invest in advanced semiconductor fabs in the US and the EU.
