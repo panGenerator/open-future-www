@@ -4,7 +4,7 @@ photo: "/images/kasia.jpg"
 photo_attr: "Own photo"
 weight: 4
 linkedin: https://www.linkedin.com/in/caterina-fantoni/
-twitter: 
+twitter: fantonikasia
 website: 
 ---
 Kasia is a Policy Officer at Open Future. She is a skilled Public Affairs and Communications professional with experience in coordinating cross-discipline, multi stakeholder international projects. <!--more-->
