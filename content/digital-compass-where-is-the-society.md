@@ -5,7 +5,7 @@ publishdate: 2021-05-07
 ---
 ## Digital Compass II - Can you point me to society?
 
-The “[2030 Digital Compass]” (https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/europes-digital-decade-digital-targets-2030_en) is a recent Communication from the European Commission that defines the policy objectives for “Europe’s digital decade”. The document opens with a paragraph that sketches a changed landscape of digitalisation after the pandemic. **A biased portrayal, focused on disruptive innovation and the market, instead of public goods and the society, hints at a broader problem with this document**.
+The “[2030 Digital Compass](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/europes-digital-decade-digital-targets-2030_en)" is a recent Communication from the European Commission that defines the policy objectives for “Europe’s digital decade”. The document opens with a paragraph that sketches a changed landscape of digitalisation after the pandemic. **A biased portrayal, focused on disruptive innovation and the market, instead of public goods and the society, hints at a broader problem with this document**.
 
 I start with a short detour into the story of these vaccines, as they perfectly illustrate how often we adopt a **“market-first” logic**, and **ignore broader societal goals**. This is as true for Europe’s digital strategy as it is for vaccines, whose creators refuse to make them [“People’s Vaccines”](http://peoplesvaccine.org/).
 
