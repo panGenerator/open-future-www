@@ -1,7 +1,7 @@
 ---
 title: "The Conference on the Future of Europe: a Prototype of Future Policymaking?"
-date: 2021-05-28
-publishdate: 2021-05-28
+date: 2021-05-27
+publishdate: 2021-05-27
 ---
 *Francesco Vogelezang, Alek Tarkowski*
 
