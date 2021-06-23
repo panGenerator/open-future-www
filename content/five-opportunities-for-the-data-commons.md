@@ -1,7 +1,7 @@
 ---
 title: "The Data Governance Act: Five opportunities for the Data Commons"
 date: 2021-06-23
-publishdate: 2021-06-24
+publishdate: 2021-06-23
 ---
 In this policy brief, we present six issues related to the proposal for the Data Governance Act (DGA) that are crucial to achieve the policy goal of building Data Commons in the European Union.  
 
