@@ -3,6 +3,8 @@ title: "The Data Governance Act: Five opportunities for the Data Commons"
 date: 2021-06-23
 publishdate: 2021-06-23
 ---
+*Francesco Vogelezang, Paul Keller*
+
 In this policy brief, we present five issues related to the proposal for the Data Governance Act (DGA) that are crucial to achieve the policy goal of building Data Commons in the European Union.  
 
 The Proposal for a Regulation on European data governance – the DGA – was released by the European Commission last November. Since then, a consultation round was held in February (you can find our submission [here](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12491-Data-sharing-in-the-EU-common-European-data-spaces-new-rules-/F1656900_en)). Currently, the proposal is making its way through the European Parliament where the ITRE committee, with Angelika Niebler as rapporteur, is in charge of the [file](https://www.europarl.europa.eu/committees/en/itre/documents/latest-documents). Meanwhile, the LIBE committee has released its [opinion](https://www.europarl.europa.eu/doceo/document/LIBE-PA-692728_EN.pdf) on May the 11th.   
