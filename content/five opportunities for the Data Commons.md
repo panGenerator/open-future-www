@@ -1,5 +1,5 @@
 ---
-title: "Policy Brief: The Data Governance Act: Five opportunities for the Data Commons"
+title: "The Data Governance Act: Five opportunities for the Data Commons"
 date: 2021-06-23
 publishdate: 2021-06-24
 ---
