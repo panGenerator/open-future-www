@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+{{- partial "head.html" . -}}
+
+<body>
+  <main class="main main-page container-fluid container-xl">
+    <div class="row header">
+      <div class="col-12 col-md-5 offset-md-1 text-center mt-5 gx-0 gx-sm-5 pb-5">
+        <a href="/" class="bg-body"><img src="{{ .Site.Params.logo_image }}" class="logo img-fluid" alt="logo" /></a>
+      </div>
+    </div>
+    <div class="row content">
+      <article class="page col-12 gx-0 mb-2" id="{{ anchorize .Title }}">
+        <div class="page-details px-5 text-small">
+          <h1>{{ .Title | markdownify}}</h1>
+          <div class="w-100"></div>
+          <ul>
+            {{ range where (where $.Site.RegularPages "Type" "page") "Title" "!=" "Updates" }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+      </article>
+    </div>
+    {{- partial "footer.html" . -}}
+  </main>
+</body>
+
+</html>
