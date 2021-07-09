@@ -16,7 +16,7 @@
           <div class="w-100"></div>
           <ul>
             {{ range where (where $.Site.RegularPages "Type" "page") "Title" "!=" "Updates" }}
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            <li>{{ .Date.Format "January 1, 2006" }} - <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
             {{ end }}
           </ul>
         </div>
