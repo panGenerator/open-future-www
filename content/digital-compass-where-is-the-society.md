@@ -3,6 +3,8 @@ title: "Digital Compass - where is the society?"
 date: 2021-05-07
 publishdate: 2021-05-07
 ---
+*Alek Tarkowski*
+
 ## Digital Compass II - Can you point me to society?
 
 The “[2030 Digital Compass](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/europes-digital-decade-digital-targets-2030_en)" is a recent Communication from the European Commission that defines the policy objectives for “Europe’s digital decade”. The document opens with a paragraph that sketches a changed landscape of digitalisation after the pandemic. **A biased portrayal, focused on disruptive innovation and the market, instead of public goods and the society, hints at a broader problem with this document**.
