@@ -16,4 +16,4 @@ The DSA constitutes a crucial opportunity to ensure that platform data is availa
 
 ### Spread the message!
 
-Please support the letter, to put pressure on European lawmakers and prevent similar episodes from happening in the future. Organisations can sign by writing to [AlgorithmWatch](policy@algorithmwatch.org). Today, it is the European lawmakers who have the upper hand in determining platforms’ accountability towards the public. Yet, they will only do so with a vibrant community supporting such actions. 
+Please support the letter, to put pressure on European lawmakers and prevent similar episodes from happening in the future. Organisations can sign by writing to [AlgorithmWatch](mailto:policy@algorithmwatch.org). Today, it is the European lawmakers who have the upper hand in determining platforms’ accountability towards the public. Yet, they will only do so with a vibrant community supporting such actions. 
