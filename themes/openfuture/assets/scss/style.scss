@@ -22,6 +22,9 @@ a {
     background: $yellow;
   }
 }
+a.bg_body {
+  background-color: none !important;
+}
 
 .btn {
   font-family: 'Chaney', 'Helvetica', sans-serif;
