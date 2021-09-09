@@ -1,7 +1,7 @@
 ---
 title: "The Data Act: another chance for the Data Commons?"
-date: 2021-09-10
-publishdate: 2021-09-10
+date: 2021-09-09
+publishdate: 2021-09-09
 ---
 
 This Summer, the Commission held two public consultations on the [Data Act & amended rules on the legal protection of databases](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/13045-Data-Act-&-amended-rules-on-the-legal-protection-of-databases_en). The first one, which closed in June, asked for feedback on the inception impact assessment for the proposed act. The second, which closed last week, was a more detailed questionnaire on a number of issues, ranging from the Business to Government (B2G) data sharing, the need for protection (or lack thereof) of machine generated data, to the fitness for purpose of the sui generis database rights introduced by [the 1996 Database Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A31996L0009).
