@@ -1,5 +1,5 @@
 ---
-title: "'Path to the Digital Decade' framework still without a society-centric approach"
+title: "The ‘Path to the Digital Decade’ needs a better destination"
 date: 2021-09-17
 publishdate: 2021-09-17
 ---
