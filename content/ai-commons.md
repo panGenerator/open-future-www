@@ -5,7 +5,13 @@ publishdate: 2021-04-29
 ---
 *Francesco Vogelezang, Alek Tarkowski*
 
-Machine training with openly licensed material is an ethical question that has long divided open movement activists. Emblematically, [a 2018 academic publication by Wiley](https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1278), concerning algorithmic training to distinguish faces of Uyghur people from those of Korean and Tibetan ethnicity, sparked a great deal of controversy about the ethics of academic research in image training recognition. Likewise, [the 2018 revelations involving a group of scientists from Stanford University](https://ieeexplore.ieee.org/document/7780624), that approximately collected around 12,000 images from a webcam in a San Francisco café to train biometric categorization algorithms, signal the inherent **struggle of user&#39;s consent to data processing with facial recognition training**. We are launching the AI\_Commons project to find a solution to this issue – one of several key [paradoxes of open](http://paradox.openfuture.eu/) that we have identified.
+Machine training with openly licensed photographs of faces is a controversial use case of Creative Commons licensed content, identified several years ago. Since the case received [media attention](https://www.nytimes.com/interactive/2019/10/11/technology/flickr-facial-recognition.html) in 2019, it has been often raised as an example of inherent conflict between openness and privacy protection as conflicting values. 
+
+In the background, there are growing concerns about the ethics of artificial intelligence and machine learning technologies, especially in relation to biometric data. Emblematically, [a 2018 academic publication by Wiley](https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1278), concerning algorithmic training to distinguish faces of Uyghur people from those of Korean and Tibetan ethnicity, sparked a great deal of controversy about the ethics of academic research in image training recognition. Likewise, [the 2018 revelations involving a group of scientists from Stanford University](https://ieeexplore.ieee.org/document/7780624), that approximately collected around 12,000 images from a webcam in a San Francisco café to train biometric categorization algorithms, signal the inherent **struggle of user&#39;s consent to data processing with facial recognition training**. 
+
+We are launching the AI\_Commons project to find a solution to this issue. By studying this case, we hope to define better how governance of shared resources can balance open sharing with protection of personal data and privacy. We also see this as a case that concerns irrevocability of CC licenses and their unintended uses, and thus the challenge of making the CC licensing stack future-proof. 
+
+Finally, this is a case that explores the limit of the traditional approach to sharing, the Open Access Commons. And asks whether for some types of data we need a stronger, more managed commons and data governance. As this is also a case that deals with imbalances of power on the web – a [Paradox of Open](http://paradox.openfuture.eu/) that we have identified.
 
 
 ### AI is a challenge for open licensing
@@ -53,13 +59,13 @@ These 2019 articles by the[ Financial Times](https://www.ft.com/content/cf19b956
 * [“How photos of your kids are powering facial recognition algorithms” (New York Times, 2019)](https://www.nytimes.com/interactive/2019/10/11/technology/flickr-facial-recognition.html)
 * [Exposing.ai website](https://exposing.ai)
 
-**About ethical considerations **
+**Ethical considerations**
 
 Concerning the various ethical considerations within the AI community, this [Nature article](https://www.nature.com/articles/d41586-020-03187-3) written by Richard Van Noorden (2020) explores core normative beliefs and questions at the core of the facial recognition research community. In doing so, it reports the results of a survey investigating ethical attitudes amongst 480 researchers who have published papers on facial recognition.
 * “[The ethical questions that haunt facial-recognition research” (Van Noorden, 2020)](https://www.nature.com/articles/d41586-020-03187-3)
 
 
-**About the use CC-licenses for Machine Learning training**
+**Use CC-licenses for Machine Learning training**
 
 In this [YouTube video](https://www.youtube.com/watch?v=4gyWc_WYOYo), Brigitte Vezina (2021), CC Director of Policy, discusses whether the use of copyright material and Creative Commons-licensed content should be used as input to train Machine Learning systems. The answer is that “it depends…”
 * [“Should open content be used to train artificial intelligence?” (Vezina, 2021)](https://www.youtube.com/watch?v=4gyWc_WYOYo)
@@ -67,7 +73,7 @@ In this [YouTube video](https://www.youtube.com/watch?v=4gyWc_WYOYo), Brigitte V
 Also, Ryan Merkley (former CEO of Creative Commons), [in this blogpost](https://creativecommons.org/2019/03/13/statement-on-shared-images-in-facial-recognition-ai/), reports CC official position on the 2019 IBM-Flickr Case where openly licensed material was used to train facial recognition algorithms. Ryan discussed the issue from a use and fair use perspective. 
 * [“Use and Fair Use: Statement on shared images in facial recognition AI” (Merkley, 2019)](https://creativecommons.org/2019/03/13/statement-on-shared-images-in-facial-recognition-ai/)
 
-### About data protection and copyright considerations 
+**Data protection and copyright considerations**
 
 Finally, coming to the various legal tensions at stake, Andres Guadamuz (2019), in this [blogpost](https://www.technollama.co.uk/using-creative-commons-images-to-train-artificial-intelligence),  discusses the IBM case from a copyright perspective. 
 * [“Using Creative Commons images to train artificial intelligence” (Guadamuz, 2019)](https://www.technollama.co.uk/using-creative-commons-images-to-train-artificial-intelligence)
@@ -81,3 +87,5 @@ On this very point, [Margoni and Kretschmer](https://www.create.ac.uk/blog/2021/
 
 Last but not least, this paper by [Flynn et al.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3578819) (2020) calls for the international community to take action by implementing user rights for research in the field of Artificial Intelligence. Specifically, the World Intellectual Property Organization (WIPO) is identified as a key international forum to advance multi stakeholder debate on the issue.
 * [“Implementing User Rights for Research in the Field of Artificial Intelligence: A Call for International Action” (Flynn et al., 2020)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3578819)
+
+*(This text has been updated on 21 September 2021).*
