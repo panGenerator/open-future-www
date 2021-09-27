@@ -1,7 +1,7 @@
 ---
 title: "RadicalxChange letter on data governance and democracy"
-date: 2021-09-01
-publishdate: 2021-09-01
+date: 2021-09-10
+publishdate: 2021-09-10
 ---
 Today we signed [“A letter on data governance and democracy”](https://www.radicalxchange.org/media/announcements/a-letter-on-data-governance-and-democracy/?mc_cid=5edb8d63cb&mc_eid=8f43b70664) published by [RadicalxChange](https://www.radicalxchange.org). The letter is directed to policymakers worldwide to propose a new vision of data governance. Instead of monopolistic ownership and data commodification, RadicalXChange advocates for a democratic and sustainable framework where data is governed collectively through data intermediaries. In the letter, the signatories call for “a new way of thinking about data” rooted in data portability and interoperability.
 
