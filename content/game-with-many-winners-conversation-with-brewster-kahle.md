@@ -1,7 +1,7 @@
 ---
 title: "A game with many winners? A Conversation with Brewster Kahle"
-date: 2021-07-30
-publishdate: 2021-08-02
+date: 2021-10-06
+publishdate: 2021-10-07
 ---
 
 ## Open Future Session #1
