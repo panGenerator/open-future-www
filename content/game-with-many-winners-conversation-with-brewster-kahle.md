@@ -1,6 +1,6 @@
 ---
 title: "A game with many winners? A Conversation with Brewster Kahle"
-date: 2021-10-06
+date: 2021-10-07
 publishdate: 2021-10-07
 ---
 
