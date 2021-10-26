@@ -1,5 +1,5 @@
 ---
-title: "Wikimedia Enterprise: a crucial piece of free knowledge infrastructure"
+title: "Wikimedia Enterprise: A piece of free knowledge infrastructure"
 date: 2021-10-26
 publishdate: 2021-10-26
 ---
