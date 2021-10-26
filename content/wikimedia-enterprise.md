@@ -1,7 +1,7 @@
 ---
 title: "Wikimedia Enterprise: a crucial piece of free knowledge infrastructure"
-date: 2021-10-27
-publishdate: 2021-10-27
+date: 2021-10-26
+publishdate: 2021-10-26
 ---
 
 Yesterday, Wikimedia Foundation [launched](https://wikimediafoundation.org/news/2021/10/25/wikimedia-foundation-launches-wikimedia-enterprise-the-new-opt-in-product-for-companies-and-organizations-to-easily-reuse-content-from-wikipedia-and-wikimedia-projects/) [Wikimedia Enterprise](https://enterprise.wikimedia.com) - a paid service targeted at commercial users of Wikimedia. At first glance, this initiative seems to be mainly about securing new revenue sources and thus improving sustainability of this civic platform. But in reality it is a milestone in developing Wikimedia as an access to knowledge infrastructure, and a strategy for adjusting to ongoing changes in the online ecosystem. During the last Open Future Session, we hosted Lyam Wyatt and Lane Becker from the Wikimedia Enterprise team, who talked about this new project. 
