@@ -14,6 +14,7 @@ In 2018, Katherine Maher – CEO of Wikimedia Foundation at that time – [wrote
 
 Interestingly enough, that was also the time when the debate about the link tax and value gap was happening in Europe. Of course, the case of Wikimedia is very different from that of commercial publishers, who were requesting payments from services using snippets of their articles. In the case of the publishers, the starting point is a commercial business model, which by necessity relies on sharing content on major social networks. Wikimedia, in turn, is committed to being a source of free knowledge. And while the publishers seeked a regulation to force payments, Wikimedia developed a new business model - and a governance structure for it.
 
+
 ## Lowering the playing field
 
 Lane Becker, who works on the business model for the new service, highlighted the peculiarities of negotiating fees for the new APIs. The service offered by Wikimedia is unique and invaluable to the greatest platforms like Google, which rely on it as a key source of raw knowledge. Economic calculations of the value of Wikimedia, accrued from the labor of thousands of volunteers working over twenty years, estimate it at billions of dollars, at par with the greatest corporate services. But at the same time business negotiations concern content that is already freely available - providing very little leverage to Wikimedia’s negotiators. 
@@ -22,6 +23,7 @@ The Enterprise API is often perceived as a service catering to the internet gian
 
 The Enterprise API will not just level the playing field. It will also transform it. This will be a new reality, where Wikipedia can be accessed either as content that is both “libre'' and gratis, or as content that is “libre”, but paid. We need to wait to see how this hybrid ecosystem develops, and whether the more structured API will bring new institutional users, allowing smaller services to start benefiting from the Wikimedia platform.
 
+
 ## Searching for the “just right” amount of revenue
 
 Liam Wyatt reminded us of the fairytale about Goldilocks, a story about a girl searching for the “just right” solution. Wikimedia has been doing just that, aiming to secure not too little, but also not too much money. Too little funds from the new API would mean that the project will not help Wikimedia improve its sustainability. But too much could also be a problem, as it creates a risk of dependence. A clear point of reference in the open movement is the Mozilla Foundation, which depends for its funding on just a single commercial partner. 
@@ -29,6 +31,7 @@ Liam Wyatt reminded us of the fairytale about Goldilocks, a story about a girl s
 To avoid this challenge, the Board of Wikimedia Foundation has decided that commercial revenue cannot cross the 30% cap. This has also been accepted as fair by the community and is also in line with American taxation laws for non-profits. The important balancing occurs between the new, commercial revenue and the donation-based model, on which Wikipedia relies : an overly high income could lead people to donate less to Wikimedia. 
 
 30% of Foundation’s current yearly revenue is still a lot of money - around 50 million dolars. This will create for the Foundation a new governance challenge, as it needs to ensure that the revenue support, and does not trump the mission. The commercial revenue will feed the overall budget of the foundation, so that they can be used for all sorts of statutory purposes.
+
 
 ## Wikimedia code, not content or law
 
@@ -40,10 +43,12 @@ The new API will also give commercial reusers a better understanding of how Wiki
 
 At the same time, the Wikimedia team noted that it is hard to enforce any additional standards or requirements. This goes back to the challenge of negotiating a commercial deal for free knowledge. There is a sense that the companies entering the contract will secure a strange hybrid of a commercial deal and a corporate social responsibility effort. 
 
+
 ## New ecosystems
 
 The Enterprise API project also acknowledges changes to the digital ecosystem and to the practices of users. Data on the use of Wikimedia shows that its knowledge base is increasingly accessed indirectly. The best known examples are the infoboxes shown in Google search results. They are based on Wikimedia content and help fulfill the mission, but most users do not click through to the Wikipedia site. So from a very practical perspective, they do not see the Wikimedia fundraising banners. 
 The Enterprise API is therefore an important step towards adjusting Wikimedia to the current ecosystem. One in which free content is reused, and thus accessed indirectly. And in which, therefore, commercial and institutional users become central to fulfilling the mission. In this environment, the basic truth still holds - that the value of knowledge increases through redistribution and reuse, rather than through keeping it exclusive. But a different financial stream needs to be designed so that usage remains sustainable.
+
 
 ## A stronger position for Wikimedia
 
@@ -52,6 +57,7 @@ As the Wikimedia Enterprise team told us, ultimately money might be less importa
 “Working with these technology companies, when we sit at the table, we are not equals, even though we feel very strongly that we should be equals”, stated the Wikimedia team during our conversation. It seems that understanding and finding this stronger position, a position of equality, is the ultimate goal of the Enterprise API. From a big picture perspective, this is an effort to build a position for this unique civic platform in an environment that is often hostile to the principles that Wikimedia espouses. And one in which Wikipedia needs to believe that it is an equal, and a strong player that can define some of the rules, and set some standards based on the idea of free knowledge. 
 
 We can see the full significance of this case only if we look at it from the perspective of the current debate on platform economy. What Wikimedia is doing with this project is building solutions that ensure that value is created for the community of creators and the institutions that produce the knowledge. Wikimedia Enterprise experiment should be followed not just by the free knowledge communities, but by policymakers thinking about value gaps, data governance and interoperability in the platform ecosystem.
+
 
 ## Open Future Sessions
 
